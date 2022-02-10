@@ -43702,7 +43702,7 @@ PrefabInstance:
     - target: {fileID: 8574887230939293681, guid: 6c93b07b2d8f6124cbdcd7226e313a56,
         type: 3}
       propertyPath: m_Positions.Array.data[1].x
-      value: -0.37487316
+      value: -0.37487307
       objectReference: {fileID: 0}
     - target: {fileID: 8574887230939293681, guid: 6c93b07b2d8f6124cbdcd7226e313a56,
         type: 3}
@@ -48273,7 +48273,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 600
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!222 &864320232
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -98863,7 +98863,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 600
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!222 &1789809589
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -104141,6 +104141,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 597562632}
     m_Modifications:
+    - target: {fileID: 6521157383258483309, guid: 3b3a577d35f83cd479e4139b02c51002,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 0.000513785
+      objectReference: {fileID: 0}
     - target: {fileID: 7387513610969850906, guid: 3b3a577d35f83cd479e4139b02c51002,
         type: 3}
       propertyPath: m_RootOrder
@@ -104200,6 +104205,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bow
+      objectReference: {fileID: 0}
+    - target: {fileID: 7387513612746779713, guid: 3b3a577d35f83cd479e4139b02c51002,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 0.000513785
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b3a577d35f83cd479e4139b02c51002, type: 3}
